@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "inquirer": "^8.2.4",
-    "jest": "^28.1.3"
-  }
-}
